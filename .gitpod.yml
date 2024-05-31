@@ -1,0 +1,6 @@
+tasks:
+  - name: Install dependencies
+    command: cd frontend/ && npm install
+    openMode: split-right
+
+    
